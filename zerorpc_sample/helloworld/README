@@ -1,0 +1,4 @@
+This program need to install the module zerorpc,
+in Ubuntu, the command is:
+$ sudo pip install zerorpc
+then, the python version is 2, not 3
