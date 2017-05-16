@@ -1,4 +1,4 @@
-This program need to install the module zerorpc,
+This program needs to install the zerorpc package,
 in Ubuntu, the command is:
 $ sudo pip install zerorpc
-then, the python version is 2, not 3
+then, if we want to run the program, we should use Python2, not Python3
